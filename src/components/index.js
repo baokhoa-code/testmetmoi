@@ -1,4 +1,3 @@
-import Welcome from "./Welcome"
 import CustomAlert from "./CustomAlert"
 import TopicItem from "./TopicItem"
 import AnnouceBox from "./AnnouceBox"
@@ -23,7 +22,6 @@ import { TopicDetailLesson, LearningTrick, StoryLesson, TitleLesson } from "./To
 import TrendingPageHeading from "./TrendingPageHeading"
 
 export {
-    Welcome,
     CustomAlert,
     TopicItem,
     AnnouceBox,
