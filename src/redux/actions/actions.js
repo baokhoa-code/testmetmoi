@@ -1,0 +1,11 @@
+// actions.js
+import { LOGIN_SUCCESS, LOGOUT } from './ActionTypes';
+
+export const loginSuccess = (token) => ({
+    type: LOGIN_SUCCESS,
+    payload: { token },
+});
+
+export const logout = () => ({
+    type: LOGOUT,
+});

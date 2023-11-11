@@ -1,0 +1,15 @@
+import {
+    View
+} from "react-native"
+import React from 'react'
+import { COLORS, SIZES } from "../constants"
+
+const WidthSpacer = ({ width }) => {
+    return (
+        <View style={{ width: width }}>
+
+        </View>
+    )
+}
+
+export default WidthSpacer
