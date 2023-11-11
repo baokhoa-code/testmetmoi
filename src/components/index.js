@@ -1,10 +1,4 @@
 import Welcome from "./Welcome"
-import ReusableText from "./ReusableText"
-import ReusableBtn from "./ReusableBtn"
-import HeightSpacer from "./HeightSpacer"
-import WidthSpacer from "./WidthSpacer"
-import CustomButton from "./CustomButton"
-import CustomDropDown from "./CustomDropDown"
 import CustomAlert from "./CustomAlert"
 import TopicItem from "./TopicItem"
 import AnnouceBox from "./AnnouceBox"
@@ -30,12 +24,6 @@ import TrendingPageHeading from "./TrendingPageHeading"
 
 export {
     Welcome,
-    ReusableText,
-    ReusableBtn,
-    HeightSpacer,
-    WidthSpacer,
-    CustomButton,
-    CustomDropDown,
     CustomAlert,
     TopicItem,
     AnnouceBox,
